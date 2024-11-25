@@ -35,3 +35,4 @@
 - Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
 ### UML
+<img src="https://raw.githubusercontent.com/Retchizu/observer-pattern/main/ObserverPatternUML.png">
